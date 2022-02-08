@@ -5,6 +5,9 @@
 	"sortnum": SORT,
 	"priority": PRIO,
 	"read_by_default": "true",
+	"extra_recipe_mappings": {
+	  "ICON": 0
+	}
 	"pages": [
 PAGES
 	]
