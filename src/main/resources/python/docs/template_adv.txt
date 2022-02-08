@@ -6,6 +6,9 @@
 	"priority": PRIO,
 	"advancement": "ADV",
 	"read_by_default": "true",
+	"extra_recipe_mappings": {
+	  "ICON": 0
+	}
 	"pages": [
 PAGES
 	]
